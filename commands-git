@@ -1,0 +1,9 @@
+Commande permettant de cloner un repo :
+
+git clone https://github.com/nadia-hazem/nomdefichier.git
+
+Les 3 commandes de push :
+
+git add nomdefichier
+git commit -m "descriptif"
+git push
