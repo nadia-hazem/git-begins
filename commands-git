@@ -7,3 +7,7 @@ Les 3 commandes de push :
 git add nomdefichier
 git commit -m "descriptif"
 git push
+
+commandes pull :
+
+git pull
