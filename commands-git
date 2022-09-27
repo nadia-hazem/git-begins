@@ -1,0 +1,34 @@
+@@ -1,13 +1,25 @@
+Commande permettant de cloner un repo :
+-Commande permettant de cloner un repo :
+
+git clone https://github.com/nadia-hazem/nomdefichier.git
+	git clone https://github.com/nadia-hazem/nomdefichier.git
+
+Les 3 commandes de push :
+-Les 3 commandes de push :
+
+git add nomdefichier
+git commit -m "descriptif"
+git push
+	git add nomdefichier
+	git commit -m "descriptif"
+	git push
+
+commandes pull :
+-Commandes pull :
+
+git pull
+	git pull
+
+-Créer une branche :
+
+	git branch nomdefichier
+
+-Basculer sur une autre branche :
+
+	git checkout nomdefichier
+
+-vérifier les branches :
+
+	git branch
